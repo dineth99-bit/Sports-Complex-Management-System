@@ -3,7 +3,8 @@
 This comprehensive system, developed in C++, is designed to efficiently manage sports equipment and bookings at sports complexes. It provides a user-friendly interface that allows sports complex administrators and users to interact seamlessly with the system.
 
 ## Features
-Equipment Management: Administrators can perform various operations on sports equipment data:
+- **Equipment Management**:
+
 Insert new equipment details.
 Display existing equipment.
 Search for specific equipment by ID.
