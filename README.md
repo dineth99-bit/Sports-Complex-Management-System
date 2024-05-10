@@ -4,8 +4,7 @@ This comprehensive system, developed in C++, is designed to efficiently manage s
 
 ## Features
 - **Equipment Management**:
-
-Insert new equipment details.
+     - Insert new equipment details.
 Display existing equipment.
 Search for specific equipment by ID.
 Delete equipment entries.
